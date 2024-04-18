@@ -16,7 +16,7 @@ const setTab = (id) => movieStore.setActiveTab(id)
         alt="logo"
         class="header-logo"
       >
-      <h2>My Favorite Movies</h2>
+      <h2>My Favorite Movies new</h2>
     </header>
 
     <div class="tabs">
